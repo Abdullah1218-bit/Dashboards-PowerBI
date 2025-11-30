@@ -1,0 +1,501 @@
+ID,Gender,City,Region,Cause,Occupation,Victim_Status,Month,Age_Group,Died,Injured
+1,Male,Gaza City,Gaza,Fighting in Gaza,Soldier,Combatant,September,Adult,1,0
+2,Male,Khan Younis,Gaza,Live fire near aid distribution,Student,Civilian,September,Adult,1,0
+3,Female,Khan Younis,Gaza,Live fire near aid distribution,Student,Civilian,September,Adult,1,0
+4,Male,Khan Younis,Gaza,Live fire near aid distribution,Student,Civilian,September,Child,1,0
+5,Female,Khan Younis,Gaza,Live fire near aid distribution,Student,Civilian,September,Child,1,0
+6,Male,Rafah,Gaza,Live fire near militarized distribution site,Student,Civilian,September,Adult,1,0
+7,Female,Rafah,Gaza,Live fire near militarized distribution site,Student,Civilian,September,Adult,1,0
+8,Male,North Gaza,Gaza,Bombardment,Student,Civilian,September,Child,1,0
+9,Female,Gaza City,Gaza,Airstrike on market,Student,Civilian,September,Adult,1,0
+10,Male,Gaza City,Gaza,Airstrike on residential area,Student,Civilian,September,Child,1,0
+11,Female,Gaza City,Gaza,Strike on IDP tent,Student,Civilian,September,Child,1,0
+12,Male,Gaza City,Gaza,Strike on school,Student,Civilian,September,Adolescent,1,0
+13,Female,North Gaza,Gaza,Malnutrition,Student,Civilian,September,Child,1,0
+14,Female,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+15,Male,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+16,Male,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+17,Female,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+18,Female,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+19,Other,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+20,Male,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+21,Female,Rafah,Gaza,Israeli airstrike on home,Doctor (Obstetrics-gynaecology),Civilian,March,Adult,1,0
+22,Male,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+23,Female,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+24,Male,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+25,Female,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+26,Male,Rafah,Gaza,Israeli military gun fire,Student,Civilian,June,Adult,1,0
+27,Male,Rafah,Gaza,Israeli military gun fire,Student,Civilian,June,Adult,1,0
+28,Male,Rafah,Gaza,Israeli military gun fire,Student,Civilian,June,Adult,1,0
+29,Male,Khan Younis,Gaza,Israeli special forces operation,Student,Civilian,May,Adult,1,0
+30,Female,Rafah,Gaza,Israeli airstrike,Student,Civilian,March,Child,1,0
+31,Female,Rafah,Gaza,Israeli airstrike,Student,Civilian,March,Child,1,0
+32,Female,Rafah,Gaza,Israeli gun fire,Student,Civilian,May,Adult,1,0
+33,Male,Gaza City,Gaza,Airstrike,Student,Civilian,January,Child,1,0
+34,Female,Khan Younis,Gaza,Airstrike,Teacher,Civilian,January,Adult,1,0
+35,Male,Rafah,Gaza,Shelling,Fisherman,Civilian,January,Adult,1,0
+36,Female,Jabalia,Gaza,Infectious Disease,Retired,Civilian,January,Elderly,1,0
+37,Male,North Gaza,Gaza,Gunfire,Unemployed,Civilian,January,Adult,1,0
+38,Male,Gaza City,Gaza,Airstrike,Engineer,Civilian,January,Adult,1,0
+39,Female,Deir al-Balah,Gaza,Shelling,Nurse,Civilian,January,Adult,1,0
+40,Female,Khan Younis,Gaza,Malnutrition,Student,Civilian,January,Child,1,0
+41,Male,Gaza City,Gaza,Airstrike,Driver,Civilian,January,Adult,1,0
+42,Male,Gaza City,West Bank,Gunfire,Student,Militant,January,Adult,1,0
+43,Male,Nablus,West Bank,Clash with IDF,Laborer,Militant,January,Adult,1,0
+44,Male,Hebron,West Bank,Gunfire,Shopkeeper,Civilian,January,Adult,1,0
+45,Female,Gaza City,Gaza,Airstrike,Doctor,Civilian,January,Adult,1,0
+46,Male,Jenin,West Bank,Clash with IDF,Student,Militant,January,Adolescent,1,0
+47,Male,Rafah,Gaza,Respiratory Infection,Student,Civilian,January,Child,1,0
+48,Male,Gaza City,Gaza,Airstrike,Journalist,Civilian,January,Adult,1,0
+49,Male,Tulkarm,West Bank,Gunfire,Farmer,Civilian,January,Adult,1,0
+50,Female,Gaza City,Gaza,Complications from Injury,Homemaker,Civilian,January,Adult,1,0
+51,Male,Khan Younis,Gaza,Shelling,Aid Worker,Civilian,January,Adult,1,0
+52,Female,Deir al-Balah,Gaza,Airstrike,Student,Civilian,January,Child,1,0
+53,Male,Gaza City,Gaza,Airstrike,Retired,Civilian,January,Elderly,1,0
+54,Male,Ramallah,West Bank,Settler Violence,Construction Worker,Civilian,January,Adult,1,0
+55,Female,Jabalia,Gaza,Lack of Medical Care,Student,Civilian,January,Adult,1,0
+56,Male,Gaza City,Gaza,Gunfire,Policeman,Combatant,January,Adult,1,0
+57,Male,Hebron,West Bank,Gunfire,Student,Civilian,January,Adolescent,1,0
+58,Female,Rafah,Gaza,Shelling,Teacher,Civilian,January,Adult,1,0
+59,Male,Gaza City,Gaza,Airstrike,Student,Civilian,January,Adult,1,0
+60,Male,Bethlehem,West Bank,Heart Attack (Stress-induced),Tour Guide,Civilian,January,Adult,1,0
+61,Male,Khan Younis,Gaza,Airstrike,UNRWA Staff,Civilian,January,Adult,1,0
+62,Female,North Gaza,Gaza,Diarrhea (Water-borne),Student,Civilian,January,Child,1,0
+63,Male,Gaza City,Gaza,Airstrike,Shopkeeper,Civilian,January,Elderly,1,0
+64,Male,Jenin,West Bank,Clash with IDF,Unemployed,Militant,January,Adult,1,0
+65,Female,Gaza City,Gaza,Complications during Childbirth,Homemaker,Civilian,January,Adult,1,0
+66,Male,Rafah,Gaza,Shelling,Baker,Civilian,January,Adult,1,0
+67,Male,Gaza City,Gaza,Gunfire,Student,Combatant,January,Adult,1,0
+68,Female,Deir al-Balah,Gaza,Infectious Disease,Retired,Civilian,January,Elderly,1,0
+69,Male,Qalqilya,West Bank,Gunfire,Laborer,Civilian,January,Adult,1,0
+70,Female,Khan Younis,Gaza,Airstrike,Pharmacist,Civilian,January,Adult,1,0
+71,Male,Jabalia,Gaza,Airstrike,Student,Civilian,January,Child,1,0
+72,Male,Gaza City,Gaza,Airstrike,Electrician,Civilian,January,Adult,1,0
+73,Male,Jericho,West Bank,Traffic Accident,Taxi Driver,Civilian,January,Adult,1,0
+74,Female,North Gaza,Gaza,Malnutrition,Student,Civilian,January,Child,1,0
+75,Male,Hebron,West Bank,Settler Violence,Street Vendor,Civilian,January,Adult,1,0
+76,Male,Gaza City,Gaza,Shelling,Retired,Civilian,January,Elderly,1,0
+77,Female,Ramallah,West Bank,Gunfire,University Student,Civilian,January,Adult,1,0
+78,Male,Gaza City,Gaza,Airstrike,IT Specialist,Civilian,January,Adult,1,0
+79,Male,Tulkarm,West Bank,Clash with IDF,Unemployed,Militant,January,Adult,1,0
+80,Female,Rafah,Gaza,Lack of Insulin,Student,Civilian,January,Adult,1,0
+81,Male,Khan Younis,Gaza,Gunfire,Student,Civilian,January,Adolescent,1,0
+82,Male,Gaza City,Gaza,Airstrike,Civil Engineer,Civilian,January,Adult,1,0
+83,Female,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+84,Male,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+85,Male,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+86,Female,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+87,Female,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+88,Other,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+89,Male,Gaza City,Gaza,Israeli airstrike on home,Student,Civilian,March,Child,1,0
+90,Female,Rafah,Gaza,Israeli airstrike on home,Doctor (Obstetrics-gynaecology),Civilian,March,Adult,1,0
+91,Male,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+92,Female,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+93,Male,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+94,Female,Rafah,Gaza,Israeli airstrike on home,Student,Civilian,March,Adult,1,0
+95,Male,Rafah,Gaza,Israeli military gunfire,Farmer,Civilian,June,Adult,1,0
+96,Female,Rafah,Gaza,Israeli military gunfire,Student,Civilian,June,Adult,1,0
+97,Male,Rafah,Gaza,Israeli military gunfire,Student,Civilian,June,Adult,1,0
+98,Female,Khan Younis,Gaza,Israeli special forces operation,Student,Civilian,May,Child,1,0
+99,Male,Khan Younis,Gaza,Israeli special forces operation,Student,Civilian,May,Adult,1,0
+100,Female,Rafah,Gaza,Israeli airstrike,Student,Civilian,March,Child,1,0
+101,Male,Deir al-Balah,Gaza,Israeli airstrike on shelter,Teacher,Civilian,July,Adult,1,0
+102,Male,Jenin,West Bank,Israeli forces gunfire during raid,Student,Civilian,January,Adult,1,0
+103,Female,Hebron,West Bank,Settler violence,Student,Civilian,February,Adult,1,0
+104,Male,Nablus,West Bank,Israeli military operation,Student,Civilian,April,Child,1,0
+105,Female,Ramallah,West Bank,Gunfire by Israeli forces,Student,Civilian,August,Child,1,0
+106,Male,Gaza City,Gaza,Israeli strike on aid convoy,Student,Civilian,September,Adult,1,0
+107,Female,Gaza City,Gaza,Israeli airstrike on school shelter,Student,Civilian,September,Child,1,0
+108,Male,Khan Younis,Gaza,Israeli tank shelling,Journalist,Civilian,September,Adult,1,0
+109,Female,Beit Lahia,Gaza,Airstrike on residential area,Student,Civilian,September,Adult,1,0
+110,Male,Jenin,West Bank,Israeli raid,Student,Civilian,September,Adult,1,0
+111,Male,Nablus,West Bank,Gunfire by Israeli forces,Student,Civilian,September,Elderly,1,0
+112,Male,Balata refugee camp,West Bank,Sniper fire by Israeli forces,Student,Civilian,September,Adult,1,0
+113,Male,Jenin,West Bank,Gunfire by Israeli forces,Student,Civilian,September,Adolescent,1,0
+114,Male,Jenin,West Bank,Gunfire by Israeli forces,Student,Civilian,September,Adolescent,1,0
+115,Male,Qattana,West Bank,Gunfire by Israeli police,Student,Militant,September,Adult,1,0
+116,Male,Al Qubeiba,West Bank,Gunfire by armed Israeli,Student,Militant,September,Adult,1,0
+117,Male,Ramot,West Bank,Shooting attack by Palestinians,Student,Civilian,September,Adult,1,0
+118,Female,Ramot,West Bank,Shooting attack by Palestinians,Student,Civilian,September,Adult,1,0
+119,Male,Ramot,West Bank,Shooting attack by Palestinians,Student,Civilian,September,Adult,1,0
+120,Female,Ramot,West Bank,Shooting attack by Palestinians,Student,Civilian,September,Adult,1,0
+121,Male,Ramot,West Bank,Shooting attack by Palestinians,Student,Civilian,September,Adult,1,0
+122,Female,Ramot,West Bank,Shooting attack by Palestinians,Student,Civilian,September,Adult,1,0
+123,Male,Gaza City,Gaza,Bombardment,Aid Worker,Civilian,September,Adult,1,0
+124,Female,Gaza City,Gaza,Bombardment,Aid Worker,Civilian,September,Adult,1,0
+125,Male,Gaza City,Gaza,Fighting in Gaza,Soldier,Combatant,September,Adult,1,0
+126,Male,Gaza City,Gaza,Fighting in Gaza,Soldier,Combatant,September,Adult,1,0
+127,Male,Gaza City,Gaza,Fighting in Gaza,Soldier,Combatant,September,Adult,1,0
+128,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+129,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+130,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+131,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+132,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+133,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+134,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+135,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+136,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+137,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+138,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+139,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+140,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+141,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+142,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+143,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+144,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+145,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+146,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+147,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+148,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+149,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+150,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+151,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+152,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+153,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+154,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+155,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+156,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+157,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+158,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+159,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+160,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+161,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+162,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+163,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+164,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+165,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+166,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+167,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+168,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+169,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+170,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+171,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+172,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+173,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+174,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+175,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+176,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+177,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+178,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+179,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+180,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+181,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+182,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+183,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+184,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+185,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+186,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+187,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+188,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+189,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+190,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+191,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+192,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+193,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+194,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+195,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+196,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+197,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+198,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+199,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+200,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+201,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+202,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+203,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+204,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+205,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+206,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+207,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+208,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+209,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+210,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+211,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+212,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+213,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+214,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+215,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+216,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+217,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+218,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+219,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+220,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+221,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+222,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+223,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+224,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+225,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+226,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+227,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+228,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+229,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+230,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+231,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+232,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+233,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+234,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+235,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+236,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+237,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+238,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+239,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+240,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+241,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+242,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+243,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+244,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+245,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+246,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+247,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+248,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+249,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+250,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+251,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+252,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+253,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+254,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+255,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+256,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+257,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+258,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+259,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+260,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+261,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+262,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+263,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+264,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+265,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+266,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+267,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+268,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+269,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+270,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+271,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+272,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+273,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+274,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+275,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+276,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+277,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+278,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+279,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+280,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+281,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+282,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+283,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+284,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+285,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+286,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+287,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+288,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+289,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+290,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+291,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+292,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+293,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+294,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+295,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+296,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+297,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+298,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+299,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+300,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+301,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+302,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+303,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+304,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+305,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+306,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+307,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+308,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+309,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+310,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+311,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+312,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+313,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+314,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+315,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+316,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+317,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+318,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+319,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+320,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+321,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+322,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+323,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+324,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+325,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+326,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+327,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+328,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+329,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+330,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+331,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+332,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+333,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+334,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+335,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+336,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+337,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+338,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+339,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+340,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+341,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+342,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+343,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+344,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+345,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+346,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+347,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+348,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+349,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+350,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+351,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+352,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+353,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+354,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+355,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+356,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+357,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+358,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+359,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+360,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+361,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+362,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+363,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+364,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+365,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+366,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+367,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+368,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+369,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+370,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+371,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+372,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+373,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+374,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+375,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+376,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+377,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+378,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+379,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+380,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+381,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+382,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+383,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+384,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+385,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+386,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+387,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+388,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+389,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+390,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+391,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+392,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+393,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+394,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+395,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+396,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+397,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+398,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+399,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+400,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+401,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+402,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+403,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+404,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+405,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+406,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+407,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+408,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+409,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+410,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+411,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+412,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+413,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+414,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+415,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+416,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+417,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+418,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+419,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+420,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+421,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+422,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+423,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+424,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+425,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+426,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+427,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+428,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+429,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+430,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+431,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+432,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+433,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+434,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+435,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+436,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+437,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+438,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+439,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+440,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+441,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+442,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+443,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+444,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+445,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+446,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+447,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+448,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+449,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+450,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+451,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+452,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+453,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+454,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+455,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+456,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+457,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+458,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+459,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+460,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+461,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+462,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+463,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+464,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+465,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+466,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+467,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+468,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+469,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+470,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+471,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+472,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+473,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+474,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+475,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+476,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+477,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+478,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+479,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+480,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+481,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+482,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+483,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+484,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+485,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+486,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+487,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+488,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+489,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+490,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+491,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+492,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+493,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+494,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+495,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+496,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+497,Male,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+498,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+499,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
+500,Female,Gaza City,Gaza,Injured in Fighting in Gaza,Soldier,Combatant,September,Adult,0,1
